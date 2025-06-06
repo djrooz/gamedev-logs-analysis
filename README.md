@@ -2,7 +2,7 @@ gamedev-logs-analysis
 Exploratory data analysis of user behavior and game logs in a mobile gamedev startup.
 
 Gamedev Logs Analysis  
-This project was completed as part of the “More Pandas” course on Karpov.courses.
+This project was completed as part of the course on Karpov.courses.
 
 📌 Project Goal  
 To analyze user profiles and in-game behavior logs to understand player activity, success rates, premium impact, and platform preferences.
