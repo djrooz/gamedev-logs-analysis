@@ -2,7 +2,6 @@ gamedev-logs-analysis
 Exploratory data analysis of user behavior and game logs in a mobile gamedev startup.
 
 Gamedev Logs Analysis  
-This project was completed as part of the course on Karpov.courses.
 
 📌 Project Goal  
 To analyze user profiles and in-game behavior logs to understand player activity, success rates, premium impact, and platform preferences.
@@ -24,7 +23,6 @@ Matplotlib, Seaborn
 
 🇷🇺 Русская версия  
 Анализ логов и пользователей в gamedev-стартапе  
-Проект выполнен в рамках курса «Ещё больше о Pandas».
 
 📌 Цель проекта  
 Изучить поведение пользователей в мобильной игре: активность, успешность, влияние премиум-статуса и предпочтения по платформам.
